@@ -1,0 +1,70 @@
+[11228:10572:2023-2-22 13:50:24.261] Main Start
+[11228:10572:2023-2-22 13:50:24.261] Command line:"C:\Users\flush\OneDrive\??\LQR\Zoom_cm_foevnkuZ9vvrZo4_mDSFtR2ckwqoFcTdz1nUpArdUpq1H7tkr+rxw@GElBrasqaplHhjVP_k64be5a968e072a6b_.exe"  Instance:0xEC0000 Show State:1
+[11228:10572:2023-2-22 13:50:24.279] C:\
+[11228:9968:2023-2-22 13:50:24.279] [process_requst] start, url:https://upower.zoom.us/conf/launch
+[11228:9968:2023-2-22 13:50:24.657] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[11228:9968:2023-2-22 13:50:24.657] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[11228:9968:2023-2-22 13:50:24.657] [read_response_content] API call zHttpQueryInfo failed, error: 12150
+[11228:9968:2023-2-22 13:50:24.657] [log_response_content] Content length (1048576 as unknown):1048576 , Total read: 1665 , Error No: 0 , Status code: 200
+[11228:9968:2023-2-22 13:50:24.657] [log_response_content] header:
+[11228:9968:2023-2-22 13:50:24.657] HTTP/1.1 200 OK
+Date: Wed, 22 Feb 2023 21:50:25 GMT
+Content-Type: text/plain;charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+x-zm-trackingid: v=2.0;clid=us02;rid=WEB_afc5ef0591f54cc8d3ea2d5282b7cfa0
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests; default-src https://*.zoom.us https://zoom.us blob: 'self'; img-src https: about: blob: data: 'self'; style-src https: safari-extension: chrome-extension: 'unsafe-inline' data: 'self'; font-src https: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * rtmp: blob: data: 'self'; frame-src https: ms-appx-web: zoommtg: zoomus: wvjbscheme: data: blob: 'self'; object-src 'none'; base-uri 'none';
+x-frame-options: SAMEORIGIN
+set-cookie: zm_aid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+x-zm-zoneid: VA2
+strict-transport-security: max-age=31536000; includeSubDomains
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+CF-Cache-Status: DYNAMIC
+Set-Cookie: zm_haid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: zm_tmaid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: zm_htmaid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: cred=FFE1A88D11247DCDC8E6F93B14565FC5; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_page_auth=us02_c_YzLffpPKTEOrnv07OzlSkA; Domain=.zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ssid=us02_c_WPDtaj9uRNWM8_bsYT5ZiA; Domain=.zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ctaid=mz4de8s1RlicC68ykmibew.1677102625335.6f880e7a8155ef7a572c179561744dda; Domain=.zoom.us; Expires=Wed, 22-Feb-2023 23:50:25 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_chtaid=469; Domain=.zoom.us; Expires=Wed, 22-Feb-2023 23:50:25 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_mtk_guid=09bcfa826802422eb4878d2ce6106dc8; Domain=.zoom.us; Expires=Fri, 21-Feb-2025 21:50:25 GMT; Path=/; Secure
+Set-Cookie: TS01f92dc5=014a0e9121a418fcdd31d918024208d2300d550ffbb12efa833a4b97b01a9e6c3f3dcebbe7aa15fbb41395aca01a21f5460461ca85; Path=/; Secure; HttpOnly; SameSite=Strict;
+Set-Cookie: TS018dd1ba=014a0e9121a418fcdd31d918024208d2300d550ffbb12efa833a4b97b01a9e6c3f3dcebbe7aa15fbb41395aca01a21f5460461ca85; path=/; domain=.zoom.us
+Set-Cookie: __cf_bm=x.3mLxZ3vpDzKfMaf8qQARt10DkCMG1k3AsNUf963f8-1677102625-0-ARDoDLvSBaDDClaKiuwyb/aELvHXqhZ5iAA/1GQGYU+ygqbGq6Jc70qA/XG3DXZJhA6L88la1xKV/N1hZ1qwsS4=; path=/; expires=Wed, 22-Feb-23 22:20:25 GMT; domain=.zoom.us; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=LYjUt4i%2BPOrqatTt88ejKiJc3%2FicLC8XZrxpVrjZ8WUe2ov2IOpcAKKYwcP7ycqGBiEfaRhLSRGxq8N%2BsEB9JkvJYRYAw6pf383eYwT1Kl4vdCFFFjHlPRjFpI2o%2FLDH"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 79daefefbd62f93d-SJC
+
+
+[11228:9968:2023-2-22 13:50:24.657] [process_requst] End for url:https://upower.zoom.us/conf/launch, return code:200, Error:0, Response content size:1665
+[11228:10572:2023-2-22 13:50:24.720] [client_has_installed_app] found path:
+[11228:10572:2023-2-22 13:50:24.720]  ***NULL-POINTER-PLACEHOLDER***
+[11228:10572:2023-2-22 13:50:24.727] [param_query_local_path] path is: C:\Users\flush\AppData\Roaming\Zoom\ZoomDownload\ dir create response : 1 system error: 1008
+[11228:10572:2023-2-22 13:50:24.727] [downloader_run] State:0
+[11228:2620:2023-2-22 13:50:24.727] [process_requst] start, url:https://upower.zoom.us/client/latest/Installer.exe?archType=x64
+[11228:10572:2023-2-22 13:50:24.727] [client_has_installed_app] found path:
+[11228:10572:2023-2-22 13:50:24.727]  ***NULL-POINTER-PLACEHOLDER***
+[11228:2620:2023-2-22 13:50:25.418] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[11228:2620:2023-2-22 13:50:25.418] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[11228:2620:2023-2-22 13:50:25.486] [read_response_file] Status Code:200, content length: 1001896, total read: 1001896, error code: 0
+[11228:2620:2023-2-22 13:50:25.486] [process_requst] End for url:https://upower.zoom.us/client/latest/Installer.exe?archType=x64, return code:200, Error:0, Response content size:0
+[11228:10572:2023-2-22 13:50:25.502] [handle_download_job_done] Index: 1 Curr index: 1 StatusCode: 200 Error: 0 Response is Empty. 
+[11228:2620:2023-2-22 13:50:25.550] [process_requst] start, url:https://upower.zoom.us/client/latest/Zoom.msi?archType=x64
+[11228:2620:2023-2-22 13:50:25.774] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[11228:2620:2023-2-22 13:50:25.774] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[11228:2620:2023-2-22 13:50:27.135] [read_response_file] Status Code:200, content length: 32221873, total read: 32221873, error code: 0
+[11228:2620:2023-2-22 13:50:27.153] [process_requst] End for url:https://upower.zoom.us/client/latest/Zoom.msi?archType=x64, return code:200, Error:0, Response content size:0
+[11228:10572:2023-2-22 13:50:27.224] [handle_download_job_done] Index: 2 Curr index: 2 StatusCode: 200 Error: 0 Response is Empty. 
+[11228:10572:2023-2-22 13:50:27.224] C:\Users\flush\AppData\Roaming\Zoom\ZoomDownload\Installer.exe
+[11228:10572:2023-2-22 13:50:27.224] ZInstaller --conf.mode=silent --ipc_wnd=460114
+[11228:10572:2023-2-22 13:50:27.332] [launch_silent_install] Installer process created, result:42
+[11228:10572:2023-2-22 13:50:35.430] C:\Users\flush\AppData\Roaming\Zoom\bin\Zoom.exe
+[11228:10572:2023-2-22 13:50:35.452] client_launch_app: 
+[11228:10572:2023-2-22 13:50:35.452] C:\Users\flush\AppData\Roaming\Zoom\bin\Zoom.exe
+[11228:10572:2023-2-22 13:50:35.452] "--url=zoommtg://win.launch?h.domain=upower.zoom.us&h.path=join&confid=dXNzPWdkbV9pS21mMDRnMS1MS1JndlVQUlEzRHotZV9rcEdobUtOOV9FQW1XOHJURDVaeHNGZ3R1MTdxd0tJeFI4RVdiY1pRQnJDdGlxMWFHVk9CTU12MWttMDNkQU0uTE5yZlVhY1lXV3E3OWVRaCZ0aWQ9MmFhZTJhZWM4OTY0NDZjYThjZjU5Njc0ZjFjNWIwOTQ%3D&mcv=0.92.11227.0929&stype=0&zc=0&browser=chrome&action=join&confno=88282480897&pwd=VlI3L1RyTURJUkVTRzBuN2FQMFArZz09"
+[11228:10572:2023-2-22 13:50:35.569] [client_launch_app] Zoom app process created, result:42
+[11228:10572:2023-2-22 13:50:35.576] Main End
